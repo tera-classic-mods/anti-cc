@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "01cb96590592fca76f28c81939bb0b2010fe75b9584650d2dff0be75ae46e4fc",
+        "index.js": "608ad274a3568aba36e18684511acaee8786bbadac4282261a8c2ae8103d3ca7",
+        "module.json": "752920506876e1779126377b64d7ad6de900847d91acacf34df4f3fca100b287",
+        "settings_migrator.js": "706f0efea16c871777061a49f02ec09557f73b7601d871b0d0698ddda93f0b8c"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_EACH_SKILL_RESULT": [13,14,15]
+    }
+}

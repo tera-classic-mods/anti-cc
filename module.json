@@ -1,0 +1,14 @@
+{
+    "name": "anti-cc",
+    "author": "HSDN / Milice / Busann / Xertyn",
+    "description": "Prevents you from getting knocked down / knocked up in PVP + PVE.",
+    "options": {
+        "niceName": "anti-cc",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "supportUrl": "https://github.com/hsdn/anti-cc/issues",
+    "servers": ["https://raw.githubusercontent.com/tera-classic-mods/anti-cc/master/"],
+    "disableAutoUpdate": false
+}
